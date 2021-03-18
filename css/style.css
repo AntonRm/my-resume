@@ -79,6 +79,10 @@ body {
 
 /* common */
 
+
+
+
+
 .desktop-element {
   display: none;
 }
@@ -643,6 +647,12 @@ body {
   margin-bottom: 30px;
 }
 
+.swiper-container {
+  width: 300px;
+  height: auto;
+  margin-bottom: 30px;
+}
+
 /* TEAM PROJECT */
 
 .team-projects .container {
@@ -954,6 +964,9 @@ footer .container {
     padding-bottom: 70px;
     max-width: 640px;
   }
+  .swiper-container {
+    width: 600px;
+  }
 
   .mobile-element {
     display: none;
@@ -1164,6 +1177,9 @@ footer .container {
   }
   .desktop-element {
     display: block;
+  }
+  .swiper-container {
+    width: 900px;
   }
 
   .front-page-profession {
